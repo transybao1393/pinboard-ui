@@ -1,4 +1,4 @@
-name = "pinboard-landing"
+name = "pinboard-ui"
 main = ".output/server/index.mjs"
 compatibility_date = "2024-01-01"
 

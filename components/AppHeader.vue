@@ -62,14 +62,9 @@ const handleNavigate = (target: string) => {
           </a>
         </div>
 
-        <div class="flex items-center gap-3">
-          <button class="btn-secondary px-5 py-2 rounded-lg text-sm font-semibold text-macos-text">
-            Sign In
-          </button>
-          <a href="/Pinboard-5.dmg" download class="btn-primary px-5 py-2 rounded-lg text-sm font-semibold text-white">
-            Download Free
-          </a>
-        </div>
+        <a href="/Pinboard-5.dmg" download class="btn-primary px-5 py-2 rounded-lg text-sm font-semibold text-white">
+          Download Free
+        </a>
       </div>
     </nav>
   </header>

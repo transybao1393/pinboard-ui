@@ -66,7 +66,7 @@ const handleNavigate = (target: string) => {
           <button class="btn-secondary px-5 py-2 rounded-lg text-sm font-semibold text-macos-text">
             Sign In
           </button>
-          <a href="/Pinboard-3.0.dmg" download class="btn-primary px-5 py-2 rounded-lg text-sm font-semibold text-white">
+          <a href="/Pinboard-5.dmg" download class="btn-primary px-5 py-2 rounded-lg text-sm font-semibold text-white">
             Download Free
           </a>
         </div>

@@ -7,7 +7,7 @@
           Free forever. No credit card required. 5-minute setup.
         </p>
 
-        <a href="/Pinboard-3.0.dmg" download class="btn-primary px-12 py-5 rounded-xl text-lg font-semibold text-white inline-flex items-center gap-3 mb-12">
+        <a href="/Pinboard-5.dmg" download class="btn-primary px-12 py-5 rounded-xl text-lg font-semibold text-white inline-flex items-center gap-3 mb-12">
           <i class="fa-brands fa-apple text-2xl"></i>
           <div class="text-left">
             <div class="text-xs opacity-80">Download for</div>

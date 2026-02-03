@@ -9,7 +9,7 @@
             Join 50,000+ professionals who work faster with Pinboard
           </p>
           <div class="flex items-center justify-center gap-4">
-            <a href="/Pinboard-3.0.dmg" download class="btn-primary px-10 py-5 rounded-xl text-lg font-semibold text-white flex items-center gap-3">
+            <a href="/Pinboard-5.dmg" download class="btn-primary px-10 py-5 rounded-xl text-lg font-semibold text-white flex items-center gap-3">
               <i class="fa-brands fa-apple text-2xl"></i>
               <div class="text-left">
                 <div class="text-xs opacity-80">Download for</div>

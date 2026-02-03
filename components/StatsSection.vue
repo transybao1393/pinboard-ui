@@ -3,20 +3,20 @@
     <div class="max-w-7xl mx-auto">
       <div class="grid grid-cols-4 gap-8 anime-stagger-container">
         <div class="text-center anime-stagger-item">
-          <div class="text-5xl font-bold gradient-text mb-2">50K+</div>
-          <div class="text-sm text-macos-secondary">Active Users</div>
+          <div class="text-5xl font-bold gradient-text mb-2">&lt;50ms</div>
+          <div class="text-sm text-macos-secondary">Instant Access</div>
         </div>
         <div class="text-center anime-stagger-item">
-          <div class="text-5xl font-bold gradient-text mb-2">1M+</div>
-          <div class="text-sm text-macos-secondary">Clipboard Items Saved</div>
+          <div class="text-5xl font-bold gradient-text mb-2">Unlimited</div>
+          <div class="text-sm text-macos-secondary">Clipboard History</div>
         </div>
         <div class="text-center anime-stagger-item">
-          <div class="text-5xl font-bold gradient-text mb-2">4.9&#9733;</div>
-          <div class="text-sm text-macos-secondary">App Store Rating</div>
+          <div class="text-5xl font-bold gradient-text mb-2">&lt;20MB</div>
+          <div class="text-sm text-macos-secondary">Memory Footprint</div>
         </div>
         <div class="text-center anime-stagger-item">
-          <div class="text-5xl font-bold gradient-text mb-2">99.9%</div>
-          <div class="text-sm text-macos-secondary">Uptime</div>
+          <div class="text-5xl font-bold gradient-text mb-2">100%</div>
+          <div class="text-sm text-macos-secondary">Keyboard Driven</div>
         </div>
       </div>
     </div>

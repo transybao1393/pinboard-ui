@@ -1,0 +1,27 @@
+# Node.js
+node_modules/
+
+# Nuxt build outputs
+.nuxt/
+.output/
+dist/
+
+# Environment files
+.env
+.env.*
+
+# IDE/Editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Cloudflare/Wrangler
+.wrangler/
+
+# Logs and misc
+*.log
+.nitro/
+.cache/

@@ -1,0 +1,28 @@
+{
+  "name": "pinboard-landing",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "NODE_NO_WARNINGS=1 nuxt build",
+    "dev": "NODE_NO_WARNINGS=1 nuxt dev",
+    "generate": "NODE_NO_WARNINGS=1 nuxt generate",
+    "preview": "NODE_NO_WARNINGS=1 nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.5.1",
+    "@fortawesome/free-brands-svg-icons": "^6.5.1",
+    "@fortawesome/free-solid-svg-icons": "^6.5.1",
+    "@fortawesome/vue-fontawesome": "^3.0.6",
+    "animejs": "^3.2.2",
+    "nuxt": "3.15.4",
+    "vue": "^3.4.0",
+    "vue-router": "^4.2.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^6.11.0",
+    "@types/animejs": "^3.1.13",
+    "typescript": "^5.3.0",
+    "wrangler": "^3.24.0"
+  }
+}
